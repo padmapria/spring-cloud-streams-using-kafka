@@ -4,7 +4,7 @@ Download kafka from https://kafka.apache.org/downloads (choose from binary downl
 
 
 
-1) Go inside the folder    
+1) Open command prompt from the folder    
 cd D:\DEV-SOFTWARES\kafka_2.12\bin\windows
 
 2) Run the below to start zookeeper    
