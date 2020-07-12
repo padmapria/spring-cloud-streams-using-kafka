@@ -1,6 +1,6 @@
 # spring-cloud-streams-using-kafka
 
-Download kafka from https://kafka.apache.org/downloads
+Download kafka from https://kafka.apache.org/downloads and extract to D:\DEV-SOFTWARES\
 choose binary download
 
 
