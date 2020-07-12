@@ -1,10 +1,10 @@
 # spring-cloud-streams-using-kafka
 
-Download kafka from https://kafka.apache.org/downloads and extract to D:\DEV-SOFTWARES\
-choose binary download
+Download kafka from https://kafka.apache.org/downloads (choose from binary download) and extract to D:\DEV-SOFTWARES\
 
 
-1) Go inside the folder
+
+1) Go inside the folder    
 cd D:\DEV-SOFTWARES\kafka_2.12\bin\windows
 
 2) Run the below to start zookeeper    
